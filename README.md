@@ -6,7 +6,7 @@ A basic single-cell pipeline, including data integration.
 
 **Visit me at:** [My Page](https://bodhayan.github.io/)
 
-## Datasets (Credits [10x](https://www.10xgenomics.com/)):
+## Datasets (Courtesy to [10x](https://www.10xgenomics.com/)):
 
 [Donor 1](https://www.10xgenomics.com/datasets/frozen-bmm-cs-healthy-control-1-1-standard-1-1-0)
 
